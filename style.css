@@ -1,0 +1,99 @@
+*{
+    text-decoration: none;
+    list-style: none;
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    margin:0px;
+    padding:0px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+section{
+    margin: auto;
+    display: flex;
+    margin-bottom: 50px;
+}
+.profil {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.profil .deskripsi {
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'comic sans ms';
+    color:#364f6b;
+}
+
+h2 {
+    font-family: 'comic sans ms';
+    font-weight: 800;
+    font-size: 45px;
+    margin-bottom: 20px;
+    color: #364f6b;
+    width: 100%;
+    line-height: 50px;
+}
+a.button {
+    background: rgb(72, 143, 72);
+    border-radius: 20px;
+    margin-top: 20px;
+    margin-left: 45%;
+    padding: 15px 20px 15px 20px;
+    color:white;
+    cursor:pointer;
+    font-weight: bold;
+}
+a.button:hover{
+    background: rgb(72, 165, 72);
+    text-decoration: none;
+}
+p{
+    margin: 15px 0px 15px 0px;
+    padding: 15px 0px 15px 0px;
+}
+h1 {
+    font-family: 'comic sans ms';
+    font-weight: 600;
+    font-size: 30px;
+    color: black;
+    width: 100%;
+    line-height: 50px;
+}
+p {
+    font-family: 'comic sans ms';
+    color: black;
+}
+
+
+
+
+.list {
+    width: 90%;
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+}
+.contact {
+    width: 10%;
+    margin: 0 auto;
+}
+.contact img {
+    width: 55%;
+    border-radius: 100%;
+}
+.contact h1 {
+    font-family: 'comic sans ms';
+    font-weight: 600;
+    font-size: 20px;
+    color: black;
+}
+.contact p {
+    font-family: 'comic sans ms';
+    font-size: 15px;
+}
+
+
+
+
